@@ -47,6 +47,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -55,20 +56,32 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### **Data & Analytics**
+![Python](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
+
+### **Business & Project Management**
+![Microsoft Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 ---
 
@@ -128,15 +141,17 @@
 **Windsgate Cebu** | Cebu City, Philippines  
 📅 *2024 - Present*
 
-Building scalable web applications and contributing to enterprise-level software solutions.
+Building enterprise-level web applications and delivering full-stack solutions for clients.
 
 **Key Responsibilities:**
-- Developing full-stack web applications with modern frameworks
-- Implementing responsive UI/UX designs
-- Code reviews and technical documentation
-- Collaborating with cross-functional teams
+- Developing full-stack web applications using Next.js, React, and PHP/Laravel
+- Implementing responsive UI/UX designs with modern frameworks
+- Database design and optimization (PostgreSQL, MySQL)
+- API development and integration
+- Code reviews, testing, and technical documentation
+- Collaborating with cross-functional teams on feature development
 
-**Technologies:** Next.js, TypeScript, React, Django, PostgreSQL, PHP, Laravel
+**Technologies:** Next.js, TypeScript, React, PHP, Laravel, Django, PostgreSQL, MySQL
 
 ---
 
@@ -144,15 +159,17 @@ Building scalable web applications and contributing to enterprise-level software
 **Rent n Snap Rentals PH** | Multi-Branch Operations  
 📅 *2024 - Present*
 
-Co-founded and scaled camera rental business to **5 branches** across Philippines (Cebu, Siargao, Davao, Bacolod, Bohol).
+Co-founded and scaled camera rental business to **5 branches** across Philippines (Cebu, Siargao, Davao, Bacolod, Bohol). Leading digital transformation and operational systems.
 
 **Key Achievements:**
-- 🚀 Built full-stack rental management platform with AI scheduling
-- 📊 Streamlined multi-branch operations through custom software
-- 💳 Integrated Paymongo payment processing
-- 📈 Reduced booking conflicts by 95% with intelligent scheduling
+- 🚀 Built full-stack rental management platform with AI-powered scheduling assistant
+- 📊 Streamlined multi-branch inventory and booking operations through custom software
+- 💳 Integrated Paymongo payment processing for seamless transactions
+- 📈 Reduced booking conflicts by 95% with intelligent conflict detection
+- 📱 Developed responsive web platform serving 1000+ customers
+- ⚡ Automated contract generation and digital signature capture
 
-**Technologies:** Next.js 14, Django, PostgreSQL, Supabase, Paymongo API
+**Technologies:** Next.js 14, Django REST Framework, PostgreSQL, Supabase, Paymongo API, Vercel, Render
 
 ---
 
@@ -160,13 +177,27 @@ Co-founded and scaled camera rental business to **5 branches** across Philippine
 **Multiple Clients** | Remote  
 📅 *March 2023 - Present*
 
-Providing data analysis and business intelligence services to SMBs.
+Providing data analysis, business intelligence, and process optimization services to small and medium businesses.
 
 **Notable Projects:**
-- **A&A Rent a Car**: Fleet optimization → +15% utilization, -10% costs, $50K+ ROI
-- **PCAB Consultancy**: Process improvement → +20% efficiency, 30% fewer bottlenecks
 
-**Skills:** Python, SQL, Power BI, Excel, Business Process Analysis
+**📈 A&A Rent a Car - Fleet Optimization Analysis**
+- Analyzed 12 months of fleet utilization data and maintenance records
+- Built interactive Power BI dashboards for real-time monitoring
+- Identified optimization opportunities through Python data analysis
+- **Results:** +15% fleet utilization, -10% maintenance costs, $50K+ annual ROI
+
+**🏛️ PCAB (Philippine Contractors Accreditation Board) - Process Improvement**
+- Mapped and optimized contractor accreditation workflows
+- Automated data collection and reporting using Python scripts
+- Created SQL queries for efficient database reporting
+- **Results:** +20% processing speed, 30% reduction in bottlenecks
+
+**Skills Applied:**
+- **Data Analysis:** Python (Pandas, NumPy, Matplotlib), SQL
+- **Visualization:** Power BI, Microsoft Excel (Advanced)
+- **Business Intelligence:** Process mapping, KPI tracking, ROI analysis
+- **Reporting:** Executive dashboards, actionable insights presentation
 
 ---
 
@@ -174,14 +205,21 @@ Providing data analysis and business intelligence services to SMBs.
 **Krissa lanele PH** | Remote  
 📅 *February 2021 - December 2021*
 
-Led marketing strategy and brand development for e-commerce business.
+Led comprehensive marketing strategy and brand development for growing e-commerce business.
 
 **Key Achievements:**
-- 📱 Increased brand awareness by **+150%**
-- 🚀 Grew social media engagement by **+100%**
-- 👥 Led team of 2 marketing associates
+- 📱 Increased brand awareness by **+150%** through targeted digital campaigns
+- 🚀 Grew social media engagement by **+100%** across Facebook, Instagram, TikTok
+- 👥 Led and coordinated team of 2 marketing associates
+- 📊 Implemented data-driven marketing strategies using Google Analytics
+- 🎨 Developed brand identity, visual content strategy, and messaging
 
-**Skills:** Social Media Marketing, Content Strategy, Campaign Management
+**Skills:**
+- Social Media Marketing & Management
+- Content Creation & Copywriting
+- Campaign Planning & Execution
+- Analytics & Performance Reporting (Google Analytics)
+- Influencer Partnership Management
 
 ---
 
@@ -189,16 +227,37 @@ Led marketing strategy and brand development for e-commerce business.
 **Theia** | Cebu City, Philippines  
 📅 *January 2022 - February 2022*
 
-Managed sales operations and customer relationship management.
+Managed sales operations, customer relationship management, and team performance.
 
-**Skills:** Sales Strategy, CRM, Performance Analytics
+**Key Achievement:**
+- 🎯 Exceeded sales targets by **+30%** in first month through strategic planning
+- 💼 Improved customer retention through personalized service approach
+- 📈 Implemented sales tracking and reporting systems using Excel
+- 🤝 Built strong relationships with key clients and stakeholders
 
+**Skills:**
+- Sales Strategy & Negotiation
+- Customer Relationship Management (CRM)
+- Team Leadership & Motivation
+- Performance Analytics & Reporting
+- Market Research & Competitive Analysis
 
-**Key Achievements:**
-- 🚀 Built 5-branch rental business from ground up
-- 📈 +150% brand awareness growth at Krissa lanele PH
-- 💯 +30% sales target exceeded at Theia
-- 🎯 20%+ efficiency improvements for consulting clients
+---
+
+### 🎓 Quality Assurance Intern
+**Software QA Testing** | Remote  
+📅 *2023*
+
+Gained hands-on experience in software testing methodologies and quality assurance processes.
+
+**Responsibilities:**
+- Manual and automated testing of web applications
+- Bug reporting and documentation in Jira
+- Test case creation and execution
+- Collaboration with development teams on bug fixes
+- Learning industry-standard QA best practices
+
+**Tools:** Selenium, Jira, Test case management systems
 
 ---
 

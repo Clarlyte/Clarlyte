@@ -1,8 +1,30 @@
-# 👋 Hi, I'm Carl Lawrence Banuag!
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=700&height=100&lines=Hi+%F0%9F%91%8B+I'm+Carl+Lawrence+Banuag;Software+Developer+%F0%9F%92%BB;Data+Analyst+%F0%9F%93%8A;Business+Co-Owner+%F0%9F%8F%A2;Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
-<div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Software+Developer+%F0%9F%92%BB;Data+Analyst+%F0%9F%93%8A;Business+Co-Owner+%F0%9F%8F%A2;Building+Scalable+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Data-00BCD4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Cebu%2C%20PH%20%F0%9F%87%B5%F0%9F%87%AD-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Collaboration-4CAF50?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/carl-lawrence-banuag-4626bb25a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:carllaw.banuag@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://rentnsnap.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black" />
+  </a>
+  <a href="https://github.com/Clarlyte">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
 
 ---
 

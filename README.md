@@ -154,7 +154,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Clarlyte&color=yellow&style=flat-square&label=Profile+Views" alt="Profile views" />
   
-  ### 💛 "Turning data into decisions, ideas into impact" 💛
+  ### "Turning data into decisions, ideas into impact" 
   
   **⭐ Star my repos if you find them helpful!**
 </div>

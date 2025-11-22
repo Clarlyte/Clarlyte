@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Carl Lawrence Banuag!
 
-<div>
+<div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Software+Developer+%F0%9F%92%BB;Data+Analyst+%F0%9F%93%8A;Business+Co-Owner+%F0%9F%8F%A2;Building+Scalable+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
@@ -58,7 +58,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clarlytetheme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clarlyte&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---

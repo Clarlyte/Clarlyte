@@ -13,7 +13,7 @@
 - 🎓 **Computer Science Student** at University of the Philippines Cebu
 - 💼 Former **Data Analyst, Marketing Manager, Sales Manager**
 - 🎯 **Mission**: Turning data into decisions, ideas into impact
-- 🌱 Currently learning: **AI/ML**, **Domain-Driven Design**, **MSystems Architecture**
+- 🌱 Currently learning: **AI/ML**, **Domain-Driven Design**, **Systems Architecture**
 - 🏆 Built solutions that increased client efficiency by **20-50%**
 - ♟️ **Chess Club Secretary** @ UP Cebu | Problem solver at heart
 
@@ -53,12 +53,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Clarlyte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clarlyte&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clarlytetheme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
@@ -216,7 +216,7 @@ Managed sales operations and customer relationship management.
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=yellow&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Clarlyte&color=yellow&style=flat-square&label=Profile+Views" alt="Profile views" />
   
   ### 💛 "Turning data into decisions, ideas into impact" 💛
   
